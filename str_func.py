@@ -1,4 +1,4 @@
-text = 'Hello World'
+text = 'hello world'
 def get_upper(text):
     """This gets us all the words in capital letters"""
     return text.upper()
